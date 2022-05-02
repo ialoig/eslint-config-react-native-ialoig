@@ -1,0 +1,31 @@
+{
+  "name": "eslint-config-react-native-ialoig",
+  "version": "1.0.0",
+  "description": "🎨 ESLint configuration ⚙️ for React Native - made with 🧠 by ialoig",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint -c index.js tests/*.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ialoig/eslint-config-react-native-ialoig.git"
+  },
+  "keywords": [
+    "eslint",
+    "configuration",
+    "react-native"
+  ],
+  "author": "ialoig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ialoig/eslint-config-react-native-ialoig/issues"
+  },
+  "homepage": "https://github.com/ialoig/eslint-config-react-native-ialoig#readme",
+  "dependencies": {
+    "eslint": "^8.14.0",
+    "eslint-plugin-i18n-json": "^3.1.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-react-native": "^4.0.0"
+  }
+}
