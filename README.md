@@ -124,4 +124,4 @@ Create `.vscode/settings.json`
 
 ----
 
-### made with 🧠 by ialoig
+made with 🧠 by ialoig
