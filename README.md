@@ -121,3 +121,7 @@ Create `.vscode/settings.json`
     "eslint.format.enable": true,
 }
 ```
+
+----
+
+### made with 🧠 by ialoig
