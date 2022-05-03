@@ -15,7 +15,7 @@
     "configuration",
     "react-native"
   ],
-  "author": "ialoig",
+  "author": "ialoig <ialoig@protonmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ialoig/eslint-config-react-native-ialoig/issues"
