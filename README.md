@@ -1,4 +1,4 @@
-# eslint-config-react-native-ialoig [![github](https://img.shields.io/github/package-json/v/ialoig/react-native-touchable-scale-reanimated)](https://img.shields.io/github/package-json/v/ialoig/eslint-config-react-native-ialoig) [![npm](https://img.shields.io/npm/v/eslint-config-react-native-ialoig?color=red)](https://img.shields.io/npm/v/eslint-config-react-native-ialoig?color=red)
+# eslint-config-react-native-ialoig [![github](https://img.shields.io/github/package-json/v/ialoig/react-native-touchable-scale-reanimated)](https://github.com/ialoig/eslint-config-react-native-ialoig) [![npm](https://img.shields.io/npm/v/eslint-config-react-native-ialoig?color=red)](https://www.npmjs.com/package/eslint-config-react-native-ialoig)
 
 ### Hi 👋
 
