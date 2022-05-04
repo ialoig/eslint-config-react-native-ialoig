@@ -41,15 +41,15 @@
 ### [sort-imports](https://eslint.org/docs/rules/sort-imports)
 
 ```
-    ⛔️ error if not correctly sorted
-    ✅ ignores the case-sensitivity of the imports local name
-    ✅ Ignores the sorting of import declaration statements
-    ✅ Do not ignores the member sorting within a multiple member import declaration
-    ✅ default member syntax sort order is:
-        * `none` - import module without exported bindings
-        * `all` - import all members provided by exported bindings
-        * `multiple` - import multiple members
-        * `single` - import single member
+⛔️ error if not correctly sorted
+✅ ignores the case-sensitivity of the imports local name
+✅ Ignores the sorting of import declaration statements
+✅ Do not ignores the member sorting within a multiple member import declaration
+✅ default member syntax sort order is:
+    * `none` - import module without exported bindings
+    * `all` - import all members provided by exported bindings
+    * `multiple` - import multiple members
+    * `single` - import single member
 ```
 
 ## 🔌 Plugins
