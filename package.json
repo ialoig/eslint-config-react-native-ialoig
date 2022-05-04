@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-react-native-ialoig",
   "version": "1.0.0",
-  "description": "🎨 ESLint configuration ⚙️ for React Native - made with 🧠 by ialoig",
+  "description": "🎨 ESLint configuration for React Native - made with 🧠 by ialoig",
   "main": "index.js",
   "scripts": {
     "test": "eslint -c index.js tests/*.js --fix"
